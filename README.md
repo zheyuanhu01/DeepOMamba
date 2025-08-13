@@ -4,4 +4,4 @@ Code for the paper **DeepOMamba: State-space model for spatio-temporal PDE neura
 
 [PDF](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5149007)
 
-The code will be available shortly.
+All codes are available. Please see the respective folders for details.
